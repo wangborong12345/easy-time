@@ -1,4 +1,4 @@
-package easy_time
+package etime
 
 import "time"
 
